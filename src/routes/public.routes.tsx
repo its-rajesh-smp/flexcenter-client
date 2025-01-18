@@ -1,9 +1,9 @@
-import Compiler from "@/pages/compiler/Compiler";
+import Home from "@/pages/home/Home";
 
 const publicRoutes = [
   {
     path: "/",
-    element: <Compiler />,
+    element: <Home />,
   },
 ];
 
